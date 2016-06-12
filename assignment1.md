@@ -1,4 +1,6 @@
-# Description of the Sample Data
+#Gapminder World Data: What affects the suicide rates across countries
+
+## Description of the Sample Data
 
 **Gapminder Foundation** is a non-profit venture registered in Stockholm, Sweden, that promotes sustainable global development and achievement of the United Nations Millennium Development Goals by increased use and understanding of statistics and other information about social, economic and environmental development at local, national and global levels. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Gapminder_Foundation))
 
@@ -11,7 +13,7 @@ The no of observations (Countries) = **213**. The country name is the unique ide
 
 We will be using the entire data set for our analysis. The dataset is available [here](https://d396qusza40orc.cloudfront.net/phoenixassets/data-management-visualization/gapminder.csv)
 
-# Data Collection Procedures
+## Data Collection Procedures
 
 The data for the study comes from the figures/metrics reported for the 15 variables for each of the 213 countries. 
 
@@ -19,7 +21,7 @@ Data may not be available for some of the variables for a country. The source of
 
 The data was collected across different years. For e.g. the data for "Income Per Person" for a country is from 2010 whereas the "Employment Rate" data for a country is from 2006.
 
-# Description of Variables
+## Description of Variables
 
 The category for the variables are across the spectrum such as Economy, Health, Environment, Energy etc. Here is the listing of each variable which describes
 what was measured and the scales.
