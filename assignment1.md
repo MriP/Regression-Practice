@@ -41,3 +41,5 @@ what was measured and the scales.
 13. **No of suicides** (*variable code*: suicideper100th, *Unit*: Numbers per 100K) - No of suicides per 100K, in the year 2005. 
 14. **Employment rate** (variable code: employrate, Unit: Percentage) - Employed adults (age > 15) as a percentage of the total population in 2007.
 15. **Urban rate** (variable code: urbanrate, Unit: Percentage) - Percentage of population living in urban areas in the year 2008.
+
+In this study, the **No of Suicides** will the the *response variable*. We will try to find out which of the other 14 *explanatory variable* affect the suicide rate.
