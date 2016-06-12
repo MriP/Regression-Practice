@@ -13,6 +13,8 @@ The no of observations (Countries) = **213**. The country name is the unique ide
 
 We will be using the entire data set for our analysis. The dataset is available [here](https://d396qusza40orc.cloudfront.net/phoenixassets/data-management-visualization/gapminder.csv)
 
+The purpose of this study is to determine if the suicide rate depends on any of the other variables.
+
 ## Data Collection Procedures
 
 The data for the study comes from the figures/metrics reported for the 15 variables for each of the 213 countries. 
