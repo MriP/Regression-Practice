@@ -175,7 +175,7 @@ data.head()
 
 
 
-### Centering the explantory variable - Alcohol Consumption
+### Centering the explanatory variable - Alcohol Consumption
 
 
 ```python
