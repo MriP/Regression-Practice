@@ -520,7 +520,7 @@ Drawing a QQ Plot
     pylab.show()
 
 
-![png](Regression_Practice_3_files/Regression_Practice_3_23_0.png)
+![png](Regression_Practice_3_23_0.png)
 
 
 From the above plot, it appears that the residuals generally don't follow the straight line and also deviates at lower and higher quantiles. The residuals dont follow a normal distribution. The association between the response variable and the explantory variable may not be linear and there may be other explantory variables whose inclusion can improve the model.
@@ -541,7 +541,7 @@ From the above plot, it appears that the residuals generally don't follow the st
     
 
 
-![png](Regression_Practice_3_files/Regression_Practice_3_26_1.png)
+![png](Regression_Practice_3_26_1.png)
 
 
 As can be seen from the above plot, more than 1% of our observation (4 out of 181 observation) has standardized residuals with an absolute value greater than 2.5. This suggests that level of error within our model is unacceptable and the **model is a fairly poor fit** to the observed data. The model could be **improved**.
@@ -554,7 +554,7 @@ There are observations with residual values which are more than 3 times the stan
     lev_plot = sm.graphics.influence_plot(reg_model, size=8)
 
 
-![png](Regression_Practice_3_files/Regression_Practice_3_28_0.png)
+![png](Regression_Practice_3_28_0.png)
 
 
 As can be seen from the leverage plot both outliers and extreme outliers have small leverage values (< 0.04). Although they are outliers they don not have an undue influence on the estimation of the regression model. 
