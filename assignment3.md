@@ -553,6 +553,9 @@ There are observations with residual values which are more than 3 times the stan
 
     lev_plot = sm.graphics.influence_plot(reg_model, size=8)
 
+## Leverage Plot
+
+Finding which observation have an undue large influence in the estimation of the predicted value of the response variable.
 
 ![png](Regression_Practice_3_28_0.png)
 
